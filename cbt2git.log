@@ -1,0 +1,10 @@
+2025-04-04 05:51:56.139953 - Received CBT.V508.FILE195.PDS from FILE195.XMI 
+2025-04-04 05:51:56.140808 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/$$$#DATE
+2025-04-04 05:51:56.140950 - Found $$$DOCUM.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/$$$DOCUM
+2025-04-04 05:51:56.141092 - Found $ELECT.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/$ELECT
+2025-04-04 05:51:56.141218 - Found @FILE195.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/@FILE195
+2025-04-04 05:51:56.141339 - Found COMPRESS.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/COMPRESS
+2025-04-04 05:51:56.141665 - Found LOGOF.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/LOGOF
+2025-04-04 05:51:56.141824 - Found RELOG.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/RELOG
+2025-04-04 05:51:56.141950 - Found T$TDIALG.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/T$TDIALG
+2025-04-04 05:51:56.142086 - Found WHOAMI.txt (text/plain) in CBT.V508.FILE195.PDS, moved to PDS/WHOAMI
